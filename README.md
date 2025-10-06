@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Arijit Mandal
 **A passionate CSE (Data Science) Student**
 
-Email Me 👉 ✉️ **arijitmandal065.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **arijitmandal065@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Mammogram Benign vs Malignant project 
 - 🌱 **I’m currently learning:** Django, java.....
