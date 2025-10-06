@@ -1,15 +1,13 @@
 # 💫 Hi 👋, I'm Arijit Mandal
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate CSE (Data Science) Student**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **arijitmandal065.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Mammogram Benign vs Malignant project 
+- 🌱 **I’m currently learning:** Django, java.....
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 📫 **How to reach me:** arijitmandal065@gmail.com
+- 😄 **Pronouns:** Arijit 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
