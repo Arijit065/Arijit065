@@ -44,3 +44,8 @@ Email Me 👉 ✉️ **arijitmandal065@gmail.com** For Collaboration/Project or 
 [![](https://visitcount.itsvg.in/api?id=Arijit065&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/assets/pacman.gif" alt="Pac-Man gameplay" width="500">
+</p>
+
+
