@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **arijitmandal065@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Mammogram Benign vs Malignant project 
+- 🔭 **I’m currently working on:** SANGUIS
 - 🌱 **I’m currently learning:** Django, java.....
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** arijitmandal065@gmail.com
